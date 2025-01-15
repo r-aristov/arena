@@ -1,0 +1,9 @@
+jax[cuda12]>=0.4.30
+matplotlib>=3.5.3
+mujoco>=3.1.6
+mujoco-mjx>=3.1.6
+numpy>=1.24.4
+optax>=0.2.3
+flax>=0.8.5
+wandb>=0.18.5
+tensorboard>=2.11.2
